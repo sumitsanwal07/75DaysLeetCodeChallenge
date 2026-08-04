@@ -42,4 +42,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
