@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0496-next-greater-element-i](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0941-valid-mountain-array](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
