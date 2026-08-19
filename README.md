@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/0027-remove-element) |
+| [0141-linked-list-cycle](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -65,9 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sumitsanwal07/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
